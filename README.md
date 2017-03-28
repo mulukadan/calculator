@@ -1,2 +1,2 @@
-#Calculator Project
-**Names of contributors:** Mulu Kadan 
+# Calculator Project
+**Names of contributors:** Mulu Kadan
